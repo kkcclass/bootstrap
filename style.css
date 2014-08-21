@@ -2,6 +2,7 @@
 
 body {
   padding-top: 70px;
+  position: relative;
   
 }
 
@@ -11,3 +12,4 @@ body {
   padding: 40px;
   
 }
+
