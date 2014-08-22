@@ -23,6 +23,6 @@ body {
   
 }
 
-#skill1 {
+#skill1, #skill2, #skill3 {
   color: Red;
 }
